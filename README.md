@@ -1,3 +1,6 @@
-https://yellowamit.github.io/public505/amitamit/mine.html
+https://yellowamit.github.io/public505/amitamit/mine.html <br>
 my first project <br>
-say mini project
+say mini project <br>
+profile card or mini portfolio <br>
+made during my first year just adding readme now(31/12/2023) <br>
+tell if you find problems
