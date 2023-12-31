@@ -1,4 +1,4 @@
-https://yellowamit.github.io/public505/amitamit/mine.html <br>
+https://yellowamit.github.io/profileCard/amitamit/mine.html <br>
 my first project <br>
 say mini project <br>
 profile card or mini portfolio <br>
